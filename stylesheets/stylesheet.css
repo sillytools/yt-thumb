@@ -243,3 +243,18 @@ a {
 @media screen and (max-width: 42em) {
   .site-footer {
     font-size: 0.9rem; } }
+
+.results {
+  width: 100%;
+}
+.row * {
+  display: inline-block;
+  box-sizing: border-box;
+}
+.row .img {
+  width: 70%;
+  /*float: right;*/
+}
+.row .label {
+  width: 30%;
+}
