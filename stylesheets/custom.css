@@ -1,0 +1,22 @@
+.header {
+	padding: 10rem;
+	background-color: #991515;
+  background-image: linear-gradient(120deg, #991515, #991554);
+	color: #fff;
+}
+
+div.ui.container.main {
+	padding-top: 3rem;
+}
+
+.main > div.column > div.segment {
+	margin: 0 auto;
+}
+
+.main img {
+	max-width: 100%;
+}
+
+.hidden {
+	display: none !important;
+}
